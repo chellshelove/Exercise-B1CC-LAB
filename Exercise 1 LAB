@@ -1,4 +1,4 @@
-operator = eval(input("Please choose an operator(1. Addition, 2. Subtraction, 3. Multiplication or 4. Division:)"))
+operator = eval(input("Please choose an operator(1. Addition, 2. Subtraction, 3. Multiplication or 4. Division:)" ))
 
 number_1 = eval(input("Input the first number: "))
 number_2 = eval(input("Input the second number: "))
